@@ -2,6 +2,9 @@
 
 Este proyecto implementa un modelo epidemiológico SIR (Suscrito-Infectado-Recuperado) en una grilla de $1000 \times 1000$ personnas. Se comparan una implementación secuencial y una paralela utilizando `multiprocessing` y memoria compartida.
 
+Reporte
+https://github.com/hid-ari/Simulaci-n-de-epidemias-paralela/blob/main/PParalela/report.md
+
 ## Estructura del Proyecto
 
 - `sequential/`: Código de la implementación secuencial.
