@@ -1,0 +1,6 @@
+cores,type,time,identical
+1,Sequential,10.574227094650269,
+1,Parallel 1,10.802571058273315,True
+2,Parallel 2,5.935178518295288,True
+4,Parallel 4,3.4612810611724854,True
+8,Parallel 8,2.383568286895752,True
